@@ -13,7 +13,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
-@Service
+//@Service
 public class JobSchedular {
 	
 	@Autowired
@@ -22,7 +22,7 @@ public class JobSchedular {
 	@Autowired
 	Job secondjob;
 	
-	@Scheduled(cron="0 0/1 * 1/1 * ?")
+	//@Scheduled(cron="0 0/1 * 1/1 * ?")
 	public void JobStarter() {
 		Map<String,JobParameter<?>> params = new HashMap<>();
 		params.put("currentTime",new JobParameter<>(System.currentTimeMillis(), Long.class));

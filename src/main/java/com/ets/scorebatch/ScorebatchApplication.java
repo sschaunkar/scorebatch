@@ -7,7 +7,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableAsync
-@EnableScheduling
+//@EnableScheduling
 public class ScorebatchApplication {
 
 	public static void main(String[] args) {
