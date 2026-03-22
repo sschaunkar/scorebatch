@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Sachin",
+    "lastName": "Singh",
+    "email": "sachin@gmail.com"
+  },
+  {
+    "Id": 2,
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "email": "rahul.sharma@gmail.com"
+  },
+  {
+    "Id": 3,
+    "firstName": "Amit",
+    "lastName": "Verma",
+    "email": "amit.verma@gmail.com"
+  },
+  {
+    "Id": 4,
+    "firstName": "Priya",
+    "lastName": "Gupta",
+    "email": "priya.gupta@gmail.com"
+  },
+  {
+    "Id": 5,
+    "firstName": "Neha",
+    "lastName": "Yadav",
+    "email": "neha.yadav@gmail.com"
+  },
+  {
+    "Id": 6,
+    "firstName": "Vikas",
+    "lastName": "Kumar",
+    "email": "vikas.kumar@gmail.com"
+  },
+  {
+    "Id": 7,
+    "firstName": "Pooja",
+    "lastName": "Mehta",
+    "email": "pooja.mehta@gmail.com"
+  },
+  {
+    "Id": 8,
+    "firstName": "Rohit",
+    "lastName": "Agarwal",
+    "email": "rohit.agarwal@gmail.com"
+  },
+  {
+    "Id": 9,
+    "firstName": "Anjali",
+    "lastName": "Chauhan",
+    "email": "anjali.chauhan@gmail.com"
+  },
+  {
+    "Id": 10,
+    "firstName": "Sandeep",
+    "lastName": "Patel",
+    "email": "sandeep.patel@gmail.com"
+  }
+]
